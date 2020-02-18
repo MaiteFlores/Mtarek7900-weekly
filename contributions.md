@@ -23,6 +23,6 @@ following the same syntax.
 
 | Week #       | Contribution (Link)  | Type  | Description |
 |---|:---|:---|:---|
-|  3   | [link to contribution](https://www.openstreetmap.org/user/Mtarek7900/history#map=19/40.74663/-73.90265)    | OpenStreetMap update    |   I added two new locations in openMaps, one is a bakery and the other is a cafe in my neighborhood    |
+|  3   | [link to contribution](https://www.openstreetmap.org/user/Mtarek7900/history#map=19/40.74663/-73.90265)    | OpenStreetMap update    |   I added two new locations in OpenStreetMaps, one is a bakery and the other is a cafe in my neighborhood    |
 |     |     |     |      |
 |     |     |     |      |
